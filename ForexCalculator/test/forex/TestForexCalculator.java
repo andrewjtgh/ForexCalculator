@@ -1,5 +1,7 @@
 package forex;
 
+import forex.ForexCalculator;
+
 import static org.junit.Assert.assertEquals;
 
 import org.junit.jupiter.api.Test;
